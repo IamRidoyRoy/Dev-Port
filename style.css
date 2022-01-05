@@ -78,3 +78,18 @@ p{
 #goal{
     background-color: gold;
 }
+
+.develop1 img{
+    width: 60%;
+    margin-left: 80px;
+    
+}
+.develop2{
+    width: 100%;
+    margin-right: 80px;
+    margin-left: -140px;
+}
+
+h2{
+    font-size: 30px;
+}
